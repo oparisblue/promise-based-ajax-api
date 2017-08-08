@@ -23,3 +23,5 @@ There are two files which you can use:
 
  * ajax.js, which has comments explaining how things work
  * ajax-min.js, which is the minimised version of the code which you should use on your site
+
+Licensed under [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/)
