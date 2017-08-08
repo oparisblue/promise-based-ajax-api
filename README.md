@@ -3,7 +3,8 @@ A small promise-based JavaScript AJAX API
 
 This is a small JavaScript API that I have written. It sends AJAX requests to a given page, with a given set of parameters. It then returns a promise, which will reject with an HTTP error, or resolve with the text returned from the request.
 
-#Usage
+Usage
+-
 
 To send a request to a page (for example, logging a user in and getting the message returned) you simply call the function `AjaxRequest(page, params)` - this then returns a promise, if you need it.
 
@@ -15,7 +16,8 @@ For example, to send a username and password (stored in variables) to a page cal
 		alert(message);
 	)};
 	
-#Files and License
+Files and License
+-
 
 There are two files which you can use:
 
